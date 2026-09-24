@@ -1,0 +1,6 @@
+{
+  "name": "Solar-Powered IoT-Based Smart Mini Cold Storage for Fresh Vegetables",
+  "description": "Decentralized solar-powered cold storage system for fresh vegetables with real-time IoT sensor telemetry, rack-wise batch tracking, energy management, and farmer access.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
